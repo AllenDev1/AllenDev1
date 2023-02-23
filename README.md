@@ -1,1 +1,1 @@
-To play the Snake Game, please see the `snake.py` file.
+![alt text](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
