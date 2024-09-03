@@ -1,1 +1,9 @@
-![alt text](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+dog_art = """
+ / \__
+(    @\___
+ /         O
+/   (_____/
+/_____/ U
+"""
+
+print(dog_art)
